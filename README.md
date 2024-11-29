@@ -13,7 +13,7 @@ Tasks completed:
 
 Code for Project 1: amazon sales project.py
 
-### Project 2: Analyzing Orders Data
+### Project 2: Analyzing Sales Data
 Tasks completed:
   - Cleaned Data
     - removed missing/duplicate data, 
@@ -22,3 +22,13 @@ Tasks completed:
       - plot, scatter plot, bar chart and box plot
 
   Code for Project 2: o list analytics.py
+
+### Project 3: Cleaning Sales Data
+Tasks completed:
+  - Cleaned and filtered the data
+    - removed/replaced null values, removing specific rows/columns from data
+  - Aggregated the data using various functions
+  - Merged and Joined dataframes
+    - Adding rows and columns to dataframes
+    
+  Code for Project 2: pizza cleaning script.py
