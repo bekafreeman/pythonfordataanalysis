@@ -13,7 +13,7 @@ Tasks completed:
 
 Code for Project 1: amazon sales project.py
 
-### Project 2: Analyzing Sales Data
+### Project 2: Analysing Sales Data
 Tasks completed:
   - Cleaned Data
     - removed missing/duplicate data, 
@@ -32,3 +32,19 @@ Tasks completed:
     - Adding rows and columns to dataframes
     
   Code for Project 3: pizza cleaning script.py
+
+  ### Project 3: Analysing Financial Data
+  Tasks completed:
+  - Merging dataframes and cleaning the data
+  - Created functions
+    - Adding the result of the function to an existing dataframe
+  - Creating classes
+  - Created and edited visualisations
+  - Created a SUbplot from visualisations created previously
+
+Code for Project 4: loan analysis script.py
+
+		
+
+    
+
