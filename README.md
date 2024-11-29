@@ -31,4 +31,4 @@ Tasks completed:
   - Merged and Joined dataframes
     - Adding rows and columns to dataframes
     
-  Code for Project 2: pizza cleaning script.py
+  Code for Project 3: pizza cleaning script.py
