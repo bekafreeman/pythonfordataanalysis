@@ -33,7 +33,7 @@ Tasks completed:
     
   Code for Project 3: pizza cleaning script.py
 
-  ### Project 3: Analysing Financial Data
+  ### Project 4: Analysing Financial Data
   Tasks completed:
   - Merging dataframes and cleaning the data
   - Created functions
@@ -44,7 +44,12 @@ Tasks completed:
 
 Code for Project 4: loan analysis script.py
 
-		
+ ### Project 5: Sentiment Analysis
+  Tasks completed:
+  - Created functions and applying to DataFrames
+  - Developed a sentiment function
+  - Produced a WordCloud and Bar chart
 
+ Code for Project 5: sentiment analysis script.py
     
 
