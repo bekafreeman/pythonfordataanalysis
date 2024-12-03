@@ -40,7 +40,7 @@ Tasks completed:
     - Adding the result of the function to an existing dataframe
   - Creating classes
   - Created and edited visualisations
-  - Created a SUbplot from visualisations created previously
+  - Created a Subplot from visualisations created previously
 
 Code for Project 4: loan analysis script.py
 
